@@ -1,7 +1,7 @@
 
 
 .ch-grid {
-	margin: 20px 0 0 0;
+	margin: 2px 0 0 0;
 	padding: 0;
 	list-style: none;
 	display: block;
@@ -23,5 +23,5 @@
 	width: 215px;
 	height: 215px;
 	display: inline-block;
-	margin: 20px;
+	margin: 30px;
 }
