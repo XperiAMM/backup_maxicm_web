@@ -2,10 +2,10 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20151211-OFFICIAL-falcon.zip</VersionName>
+  <VersionName>MaxiCM-5.1-20151212-OFFICIAL-falcon.zip</VersionName>
   <VersionNumber type="integer">20151204</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/Krizthian/maxicm/falcon/MaxiCM-5.1-20151211-OFFICIAL-falcon.zip</DirectUrl>
-  <HttpUrl>https://basketbuild.com/devs/Krizthian/maxicm/falcon</HttpUrl>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/falcon/MaxiCM-5.1-20151212-OFFICIAL-falcon.zip</DirectUrl>
+  <HttpUrl>https://basketbuild.com/devs/MaxiCM/falcon</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>Krizthian</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
