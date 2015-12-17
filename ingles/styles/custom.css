@@ -545,11 +545,7 @@ h6,.page-content h6 a {font-weight: normal; font-style: normal; font-family: 'So
 .social_bookmarks a{ float:left; margin-right:10px;}
 .icon_twitter { width:31px; height:30px; background:url('../icons/twitter1.png')}
 .icon_twitter:hover {background:url('../icons/twitter2.png')}
-.icon_facebook { width:31px; height:30px; background:url('../icons/facebook1.png')}
-.icon_facebook:hover {background:url('../icons/facebook2.png')}
 .icon_google { width:31px; height:30px; background:url('../icons/google1.png')}
 .icon_google:hover {background:url('../icons/google2.png')}
-.icon_pinterest { width:31px; height:30px; background:url('../icons/pinterest1.png')}
-.icon_pinterest:hover {background:url('../icons/pinterest2.png')}
-.icon_flickr { width:24px; height:24px; background:url('../icons/icons_flickr.png')}
-.icon_flickr:hover {background:url('../icons/icons_flickr_hover.png')}
+.icon_github { width:31px; height:30px; background:url('../icons/github1.png')}
+.icon_github:hover {background:url('../icons/github2.png')}
